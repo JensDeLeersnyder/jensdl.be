@@ -48,4 +48,4 @@ check $? "Executing linutil"
 
 rm -f "$temp_file"
 check $? "Deleting the temporary file"
-}; # End of wrapping
+} # End of wrapping
